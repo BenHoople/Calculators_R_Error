@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculators</string>
+    <string name="tipAmount"> Tip Total:</string>
+    <string name="grandTotalText">Grand Total:</string>
+    <string name="bill_input">Please Enter Your Bill Total</string>
+    <string name="title_activity_calculator">Calculator</string>
+</resources>
